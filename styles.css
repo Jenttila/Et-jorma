@@ -1,3 +1,8 @@
-body{ background-image: url("https://github.com/Jenttila/jenttila.github.io/blob/main/fishies.gif");} 
+body{ background-image: url("https://github.com/Jenttila/fishies.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 p { color: blue; } 
 h3{ color: white; }
