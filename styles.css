@@ -1,9 +1,11 @@
 html{
-   background-image: url("https://github.com/Jenttila/fishies.gif") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+   background-color: black; 
+   color: white;
 }
-p { color: blue; } 
-h3{ color: white; }
+p { 
+   font-size: 12px; 
+   color: green;
+   } 
+h1 {
+   font-size: 20px; 
+   }
