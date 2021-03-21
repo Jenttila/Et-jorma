@@ -42,14 +42,14 @@ div {
   display: inline-block; 
   background-color: lightblue;
  }
-header {
+#header {
   background-color: #899965;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: #2C2938;
 }
-nav {
+#nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
@@ -57,7 +57,7 @@ nav {
   padding: 20px;
   color: #2C2938;
 }
-article {
+#article {
   float: left;
   padding: 20px;
   width: 70%;
@@ -65,13 +65,13 @@ article {
   height: 300px;
   color: #2C2938;
 }
-footer {
+#footer {
   background-color: #899965;
   padding: 10px;
   text-align: center;
   color: #2C2938;
 }
-section:after {
+#section:after {
   content: "";
   display: table;
   clear: both;
