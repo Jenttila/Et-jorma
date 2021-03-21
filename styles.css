@@ -13,8 +13,6 @@ p {
    } 
 .headings {
    display: table;
-   font-size: 20px;
-   width: 200;
    background-color: lightblue;
    padding-top: 50px;
    padding-right: 30px;
