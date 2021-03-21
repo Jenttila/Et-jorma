@@ -3,7 +3,7 @@ body {
  background-color: #cccccc;
 }
 p { 
-   display: block;
+   display: inline;
    float: left;
    font-size: 36px; 
    color: green;
@@ -15,7 +15,7 @@ p {
    margin-left: 10px;
    } 
 .headings {
-   display: block;
+   display: inline;
    font-size: 20px;
    width: 200;
    background-color: blue;
@@ -25,7 +25,7 @@ p {
    padding-left: 80px;
    }
 .borders {
-   display: block;
+   display: inline;
    border-style: dotted;
    border-width: 2px;
    border-color: black;
@@ -37,11 +37,11 @@ ul {
    list-style-type: square;
    }
 figure {
-   display: block;
+   display: inline;
    background-color: lightblue;
   }
 div {
-  display: block; 
+  display: inline; 
   background-color: lightblue;
  
  }
