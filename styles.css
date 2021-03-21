@@ -15,6 +15,7 @@ p {
    margin-left: 10px;
    } 
 .headings {
+   display: block;
    font-size: 20px;
    width: 200;
    background-color: blue;
@@ -24,6 +25,7 @@ p {
    padding-left: 80px;
    }
 .borders {
+   display: block;
    border-style: dotted;
    border-width: 2px;
    border-color: black;
@@ -35,8 +37,11 @@ ul {
    list-style-type: square;
    }
 figure {
+   display: block;
    background-color: lightblue;
   }
 div {
-   background-color: lightblue;
+  display: block; 
+  background-color: lightblue;
+ 
  }
