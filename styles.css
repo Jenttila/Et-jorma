@@ -28,3 +28,9 @@ ol {
 ul {
    list-style-type: square;
    }
+figure {
+   background-color: blue;
+  }
+div {
+   background-color: blue;
+ }
