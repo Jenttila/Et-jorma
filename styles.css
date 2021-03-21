@@ -4,15 +4,13 @@ body {
 }
 p { 
    display: block;
+   margin-left: auto;
+   margin-right: auto;
    text-align: center;
    font-size: 36px; 
    color: green;
    border-radius: 25px;
    background-color: yellow;
-   margin-top: 100px;
-   margin-bottom: 100px;
-   margin-right: 150px;
-   margin-left: 10px;
    } 
 .headings {
    display: block;
