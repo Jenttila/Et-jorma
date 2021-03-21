@@ -5,9 +5,11 @@ body {
 p { 
    font-size: 12px; 
    color: green;
+   background-color: white;
    } 
-h1 {
+.h1 {
    font-size: 20px;
+   background-color: white;
    }
 .borders {
    border-style: dotted;
