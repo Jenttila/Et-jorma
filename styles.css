@@ -1,7 +1,7 @@
-html{
-   background-color: black; 
-   color: white;
-   }
+body {
+ background-image: url("https://github.com/Jenttila/project/blob/main/fishies.gif");
+ background-color: #cccccc;
+}
 p { 
    font-size: 12px; 
    color: green;
