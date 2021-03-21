@@ -4,7 +4,6 @@ body {
 }
 p { 
    display: block;
-   float: left;
    font-size: 36px; 
    color: green;
    border-radius: 25px;
