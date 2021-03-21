@@ -15,13 +15,12 @@ p {
 .headings {
    font-size: 20px;
    width: initial;
+   background-color: light blue;
    }
 .borders {
    border-style: dotted;
    border-width: 2px;
    border-color: black;
-   background-color: light blue;
-   width: initial;
    }
 ol {
    list-style-type: upper-alpha;
