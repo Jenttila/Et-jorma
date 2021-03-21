@@ -3,7 +3,7 @@ body {
  background-color: #cccccc;
 }
 p { 
-   display: inline;
+   display: inline-block;
    float: left;
    font-size: 36px; 
    color: green;
@@ -41,7 +41,7 @@ figure {
    background-color: lightblue;
   }
 div {
-  display: block; 
+  display: inline-block; 
   background-color: lightblue;
  
  }
