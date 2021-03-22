@@ -43,7 +43,7 @@ div {
 }
 #nav {
   width: 20%;
-  height: 100%;
+  float: left;
   background: #D1CF8C;
   padding: 20px;
   color: #2C2938;
