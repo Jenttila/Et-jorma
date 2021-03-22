@@ -1,21 +1,4 @@
-body {
- background-image: url("fishies.gif");
- background-color: #cccccc;
- transition: margin-left .5s;
- padding: 20px;
- }
-p { 
-   font-size: 36px; 
-   color: green;
-   border-radius: 25px;
-   background-color: yellow;
-   } 
-.headings {
-   background-color: lightblue;
-   padding-top: 50px;
-   padding-right: 30px;
-   padding-bottom: 50px;
-   padding-left: 80px;
+  padding-left: 80px;
    }
 ol {
    list-style-type: upper-alpha;
@@ -39,7 +22,7 @@ div {
 #nav {
   float: left;
   width: 20%;
-  height: 100%;
+  height: 100%
   background: #D1CF8C;
   padding: 20px;
   color: #2C2938;
@@ -73,5 +56,5 @@ div {
   color: #2C2938;
 }
 #slidetotheright {
-  margin-left: 20%;
+  width 80%;
 }
