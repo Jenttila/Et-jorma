@@ -19,7 +19,7 @@
 }
 .menu {
   width: 25%;
-  lenght: 100%;
+  height: 100%;
   background-color: #B98B62;
 }
 .content {
@@ -28,7 +28,7 @@
 .menu ul {
   list-style-type: none;
   margin: 0;
-  padding: 20;
+  padding: 20px;
 }
 .menu li {
   padding: 8px;
@@ -37,7 +37,7 @@
   color: #ffffff;
 }
 .menu li:hover {
-  background-color: ##604430;
+  background-color: #604430;
   color: red;
 }
 .border {
