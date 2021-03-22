@@ -38,6 +38,7 @@ div {
 }
 #nav {
   width: 20%;
+  height: 100%
   float: left;
   background: #D1CF8C;
   padding: 20px;
@@ -60,8 +61,6 @@ div {
   color: #2C2938;
 }
 #section:after {
-  width: 20%;
-  float: left;
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
