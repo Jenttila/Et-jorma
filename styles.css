@@ -17,11 +17,6 @@ p {
    padding-bottom: 50px;
    padding-left: 80px;
    }
-.borders {
-   border-style: dotted;
-   border-width: 2px;
-   border-color: black;
-   }
 ol {
    list-style-type: upper-alpha;
    }
@@ -51,6 +46,7 @@ div {
   text-decoration: none;
 }
 #article {
+  float: relative;
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
