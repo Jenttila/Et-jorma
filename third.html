@@ -1,47 +1,75 @@
-<!DOCTYPE html> 
-<html lang="en">
-<head>
-  <link rel="stylesheet" href="styles.css">
-  <title>Post-corona travel destination</title>
-</head>
-<body>
-	<header id="header">
-  		<h1>Where to travel</h1>
-	</header>
-	<nav id="nav">
-  		<ul>
-    			<li><a href="index.html">Home Page</a></li>
-    			<li><a href="second.html">Work after corona</a></li>
-		</ul>
-	</nav>
-	<div class="slidetotheright">
-  		<section id="section">
-    			<h2>traveller's checklist</h2>
-    			<p class="borders">What to get.</p>
-      			<ol>
-        			<li>domestic travel</li>
-        			<li>neighboring countries</li>
-      			</ol>
-      			<ul>
-        			<li>city vacation</li>
-        			<li>Hit the beach!</li>
-      			</ul>
-    		</section>
-	</div>
-  	<div class="slidetotheright">
-		<article id="article">
-    			<h2>Where to go</h2>
-    			<p>It is going to be AWESOME</p>
-  		</article>
-	</div>
-	<div class="slidetotheright">
-  		<aside id="aside">
-    			<figure>
-      				<img src="travel.GIF" alt="man hiking in the nature" />
-      				<figcaption>Everyone will travel to somewhere warm. Choose quiet instead.</figcaption>
-    			</figure>
-  		</aside>
-	</div>
-	<footer id="footer">Here's the Footer and it's awesome</footer>
-</body>
-</html> 
+body {
+ background-image: url("fishies.gif");
+ background-color: #cccccc;
+ transition: margin-left .5s;
+ padding: 20px;
+ }
+p { 
+   font-size: 36px; 
+   color: green;
+   border-radius: 25px;
+   background-color: yellow;
+   } 
+.headings {
+   background-color: lightblue;
+   padding-top: 50px;
+   padding-right: 30px;
+   padding-bottom: 50px;
+   padding-left: 80px;
+   }
+ol {
+   list-style-type: upper-alpha;
+   }
+ul {
+   list-style-type: square;
+   }
+figure {
+   background-color: lightblue;
+  }
+div {
+  background-color: lightblue;
+ }
+#header {
+  background-color: #899965;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: #2C2938;
+}
+#nav {
+  float: left;
+  width: 20%;
+  height: 100%
+  background: #D1CF8C;
+  padding: 20px;
+  color: #2C2938;
+  list-style-type: none;
+  text-decoration: none;
+}
+#article {
+  padding: 20px;
+  background-color: #B98B62;
+  height: 300px;
+  color: #2C2938;
+#aside {
+  padding: 20px;
+  background-color: #B98B62;
+  height: 300px;
+  color: #2C2938;
+}
+#footer {
+  clear:both;
+  background-color: #899965;
+  padding: 10px;
+  text-align: center;
+  color: #2C2938;
+}
+#section {
+  padding: 20px;
+  background-color: #B98B62;
+  height: 300px;
+  color: #2C2938;
+}
+#slidetotheright {
+  width 80%;
+}
