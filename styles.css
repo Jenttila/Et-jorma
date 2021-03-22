@@ -64,9 +64,10 @@ div {
   color: #2C2938;
 }
 #section:after {
-  content: "";
-  display: table;
-  clear: both;
+  padding: 20px;
+  background-color: #B98B62;
+  height: 300px;
+  color: #2C2938;
 }
 #slidetotheright {
   margin-left:25%;
