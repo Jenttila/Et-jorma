@@ -51,7 +51,6 @@ div {
   color: #2C2938;
 }
 #nav {
-  float: left;
   width: 30%; 
   background: #D1CF8C;
   padding: 20px;
@@ -70,6 +69,7 @@ div {
   color: #2C2938;
 }
 #footer {
+  clear:both;
   background-color: #899965;
   padding: 10px;
   text-align: center;
@@ -79,4 +79,7 @@ div {
   content: "";
   display: table;
   clear: both;
+}
+#slidetotheright {
+  margin-left:25%;
 }
