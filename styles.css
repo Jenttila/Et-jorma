@@ -46,6 +46,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: #D1CF8C;
+  text-align: center;
 }
 li {
   display: inline;
