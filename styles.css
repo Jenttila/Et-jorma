@@ -5,7 +5,6 @@ body {
  padding: 20px;
  }
 p { 
-   float: right;
    margin-left: auto;
    margin-right: auto;
    font-size: 36px; 
@@ -14,7 +13,6 @@ p {
    background-color: yellow;
    } 
 .headings {
-   float: right;
    background-color: lightblue;
    padding-top: 50px;
    padding-right: 30px;
@@ -22,7 +20,6 @@ p {
    padding-left: 80px;
    }
 .borders {
-   position: relative;
    border-style: dotted;
    border-width: 2px;
    border-color: black;
@@ -34,16 +31,12 @@ ul {
    list-style-type: square;
    }
 figure {
-   float: right;
    background-color: lightblue;
   }
 div {
-  float: right;
-  display: inline-block; 
   background-color: lightblue;
  }
 #header {
-  float: right;
   background-color: #899965;
   padding: 30px;
   text-align: center;
@@ -51,7 +44,7 @@ div {
   color: #2C2938;
 }
 #nav {
-  width: 30%; 
+  width: 25%; 
   background: #D1CF8C;
   padding: 20px;
   color: #2C2938;
@@ -61,7 +54,6 @@ div {
   height: 100%;
 }
 #article {
-  float: right;
   padding: 20px;
   width: 70%;
   background-color: #B98B62;
