@@ -52,6 +52,12 @@ div {
   background-color: #B98B62;
   height: 300px;
   color: #2C2938;
+#aside {
+  float: right
+  padding: 20px;
+  background-color: #B98B62;
+  height: 300px;
+  color: #2C2938;
 }
 #footer {
   clear:both;
@@ -60,7 +66,7 @@ div {
   text-align: center;
   color: #2C2938;
 }
-#section:after {
+#section {
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
