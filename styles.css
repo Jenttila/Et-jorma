@@ -38,7 +38,7 @@ figure {
    background-color: lightblue;
   }
 div {
-  position: relative;
+  float: right;
   display: inline-block; 
   background-color: lightblue;
  }
