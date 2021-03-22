@@ -58,6 +58,8 @@ div {
   color: #2C2938;
   list-style-type: none;
   text-decoration: none;
+  position: fixed;
+  height: 100%;
 }
 #article {
   float: left;
