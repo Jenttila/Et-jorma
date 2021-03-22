@@ -8,6 +8,10 @@
   float: left;
   padding: 15px;
 }
+.rsidebar{
+  float: right;
+  padding: 15px;
+} 
 .clearfix::after {
   content: "";
   clear: both;
