@@ -27,7 +27,7 @@
 .menu ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
 }
 .menu li {
   padding: 8px;
