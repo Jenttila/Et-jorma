@@ -1,9 +1,8 @@
 body {
  background-image: url("fishies.gif");
  background-color: #cccccc;
- width: 90%;
- margin-left: auto;
- margin-right: auto;  
+ transition: margin-left .5s;
+ padding: 20px;
  }
 p { 
    display: inline-block;
