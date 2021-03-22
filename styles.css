@@ -20,6 +20,7 @@ div {
   color: #2C2938;
 }
 #nav {
+  display: inline-block;
   float: left;
   width: 20%;
   height: 100%
