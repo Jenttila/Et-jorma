@@ -49,6 +49,7 @@ div {
   color: #2C2938;
 }
 #nav {
+  display: inline;
   width: 30%; 
   background: #D1CF8C;
   padding: 20px;
