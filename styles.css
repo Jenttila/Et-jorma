@@ -1,4 +1,21 @@
-  padding-left: 80px;
+body {
+ background-image: url("fishies.gif");
+ background-color: #cccccc;
+ transition: margin-left .5s;
+ padding: 20px;
+ }
+p { 
+   font-size: 36px; 
+   color: green;
+   border-radius: 25px;
+   background-color: yellow;
+   } 
+.headings {
+   background-color: lightblue;
+   padding-top: 50px;
+   padding-right: 30px;
+   padding-bottom: 50px;
+   padding-left: 80px;
    }
 ol {
    list-style-type: upper-alpha;
@@ -20,7 +37,6 @@ div {
   color: #2C2938;
 }
 #nav {
-  display: block;
   float: left;
   width: 20%;
   height: 100%
@@ -31,13 +47,11 @@ div {
   text-decoration: none;
 }
 #article {
-  float: center;
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
   color: #2C2938;
 #aside {
-  float: right
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
