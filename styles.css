@@ -5,7 +5,7 @@ body {
  padding: 20px;
  }
 p { 
-   position: relative;
+   float: right;
    margin-left: auto;
    margin-right: auto;
    font-size: 36px; 
@@ -14,7 +14,7 @@ p {
    background-color: yellow;
    } 
 .headings {
-   position: relative;
+   float: right;
    background-color: lightblue;
    padding-top: 50px;
    padding-right: 30px;
@@ -34,7 +34,7 @@ ul {
    list-style-type: square;
    }
 figure {
-   display: inline-block;
+   float: right;
    background-color: lightblue;
   }
 div {
@@ -43,7 +43,7 @@ div {
   background-color: lightblue;
  }
 #header {
-  position: relative;
+  float: right;
   background-color: #899965;
   padding: 30px;
   text-align: center;
@@ -51,7 +51,7 @@ div {
   color: #2C2938;
 }
 #nav {
-  display: inline;
+  float: left;
   width: 30%; 
   background: #D1CF8C;
   padding: 20px;
@@ -62,7 +62,7 @@ div {
   height: 100%;
 }
 #article {
-  position: right;
+  float: right;
   padding: 20px;
   width: 70%;
   background-color: #B98B62;
