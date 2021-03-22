@@ -1,25 +1,3 @@
-  text-decoration: none;
-}
-#article {
-  padding: 20px;
-  background-color: #B98B62;
-  height: 300px;
-  color: #2C2938;
-#aside {
-  padding: 20px;
-  background-color: #B98B62;
-  height: 300px;
-  color: #2C2938;
-}
-#section {
-  padding: 20px;
-  background-color: #B98B62;
-  height: 300px;
-  color: #2C2938;
-}
-.slidetotheright {
-  width 80%;
-}
 .header, .footer {
   padding: 10px;
   text-align: center;
