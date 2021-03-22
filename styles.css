@@ -62,7 +62,7 @@ div {
   height: 100%;
 }
 #article {
-  position: relative;
+  position: right;
   padding: 20px;
   width: 70%;
   background-color: #B98B62;
