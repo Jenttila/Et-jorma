@@ -37,9 +37,9 @@ div {
   color: #2C2938;
 }
 #nav {
+  float: left;
   width: 20%;
   height: 100%
-  float: left;
   background: #D1CF8C;
   padding: 20px;
   color: #2C2938;
@@ -47,7 +47,7 @@ div {
   text-decoration: none;
 }
 #article {
-  float: relative;
+  float: center;
   padding: 20px;
   background-color: #B98B62;
   height: 300px;
@@ -73,5 +73,5 @@ div {
   color: #2C2938;
 }
 #slidetotheright {
-  float: relative;
+  margin-left: 20%;
 }
