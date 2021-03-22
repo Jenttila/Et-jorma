@@ -70,5 +70,5 @@ div {
   color: #2C2938;
 }
 #slidetotheright {
-  margin-left:20%;
+  float: relative;
 }
