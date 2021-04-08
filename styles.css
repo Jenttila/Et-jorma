@@ -4,7 +4,7 @@
 .center {
 	text-align: center;
 }
-header{
+#header{
 	margin-bottom: 10px;
 	width: 100%;
 }
@@ -22,7 +22,7 @@ header{
 	width: 200px;
 	height: 150px;
 }
-.center .placeholder-img {
+.footer {
 	margin: 0 auto 20px auto;
 }
 .left {
@@ -43,6 +43,6 @@ header{
 .nav-link.active {
 	color: black;
 }
-section {
+#section {
 	clear: both;
 }
